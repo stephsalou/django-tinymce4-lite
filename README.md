@@ -100,4 +100,7 @@ python manage.py collectstatic
 
 ```
 
-### 
+## FILEBROWSER_SETTING
+
+FILEBROWSER_DIRECTORY = ''
+FILEBROWSER_MAX_UPLOAD_SIZE = 10485760
